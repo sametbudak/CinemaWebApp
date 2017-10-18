@@ -18,6 +18,7 @@ Ticket clerk login: **clerk3**, password: **123**.
 ## Snapshots
 
 Any visitor pages:
+![visitor_home](https://user-images.githubusercontent.com/27282099/31718268-f1220712-b417-11e7-8e49-c31b216f6527.jpg)
 
 Administrator working pages:
 
