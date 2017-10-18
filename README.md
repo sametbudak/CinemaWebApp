@@ -1,5 +1,4 @@
 # Cinema Web App
-================
 
 Features of cinema's webapp:
 * viewing information about movies currently shown in the cinema
@@ -7,7 +6,11 @@ Features of cinema's webapp:
 * authentication for cinema's staff: administrators, ticket clerks 
 * administrators can add, edit, delete movies; can schedule movies for screenings
 * ticket clerks can search movie screenings, ticket bookings; can sell tickets
-* demo data for webapp demonstration (stored under *theater* folder)
+
+## Demo data
+Stored under *theater* folder
+Administrator login: **admin3**, password: **123**
+Ticket clerk login: **clerk3**, password: **123**
 
 ## Snapshots
 
@@ -28,6 +31,7 @@ Backend:
 * Maven
 * MySql
 * IntelliJ IDEA
+
 Frontend:
 * Bootstrap
 * JSP, JSTL
