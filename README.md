@@ -1,14 +1,14 @@
 # Cinema Web App
 
 Features of cinema's webapp:
-1 viewing information about movies currently shown in the cinema 
+* viewing information about movies currently shown in the cinema 
 * * start page in case of localhost deployment: http://localhost:8085/
-2 search of movie screenings, showing and booking of tickets
-3 authentication for cinema's staff: 
+* search of movie screenings, showing and booking of tickets
+* authentication for cinema's staff: 
 * * administrators (login page in case of localhost deployment: http://localhost:8085/admin/login ) 
 * * ticket clerks (login page in case of localhost deployment: http://localhost:8085/clerk/login ) 
-4 administrators can add, edit, delete movies; can schedule movies for screenings
-5 ticket clerks can search movie screenings, ticket bookings; can sell tickets
+* administrators can add, edit, delete movies; can schedule movies for screenings
+* ticket clerks can search movie screenings, ticket bookings; can sell tickets
 
 ## Demo data
 
