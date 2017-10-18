@@ -1,0 +1,58 @@
+/* https://www.codeproject.com/Tips/890021/Advanced-CSS-Styling-of-HTML-SELECT-Element */
+.custom-select
+{
+    width                    : 17em;
+    height                   : 2.3em;
+    line-height              : 1em;
+    vertical-align           : middle;
+    padding-right            : 1.5em;
+    text-indent              : 0.2em;
+    text-align               : left;
+    box-shadow               : inset 0 0 1px #acacac;
+    border                   : 1px solid #606060;
+    -moz-border-radius       : 3px;
+    -webkit-border-radius    : 3px;
+    border-radius            : 3px;
+    -webkit-appearance       : none;
+    -moz-appearance          : none;
+    appearance               : none;  /*IMPORTANT*/
+    font-family              : Arial,  Calibri, Tahoma, Verdana;
+    font-size                : 1.1em;
+    font-weight              : 200;
+    color                    : #424242;
+    cursor                   : pointer;
+    outline                  : none;
+}
+select::-ms-expand {display: none;} /*FOR IE*/
+select option
+{
+    padding             : 0.3em;
+    font-size           : 1em;
+    font-weight         : normal;
+}
+select option[selected]{ font-weight:bold}
+select option:nth-child(even) { background-color:#f5f5f5; }
+select:hover {font-weight: 300;}
+select:focus {box-shadow: inset 0 0 4px #18185f; font-weight: 300;}
+
+/*LABEL FOR SELECT*/
+label { position: relative; display: inline-block;}
+label::after
+{
+    /*'AIRPLANE' GLYPGH on PULL-DOWN BUTTON (U+021E3)*/
+    content                 : "\23f7";
+    position                : absolute;
+    top                     : 0;
+    right                   : 0;
+    bottom                  : 0;
+    width                   : 1.5em;
+    line-height             : 2em;
+    vertical-align          : middle;
+    text-align              : center;
+    color                   : #5d5d5d;
+    font-size               : 1.2em;
+    -moz-border-radius       : 0 3px 3px 0;
+    -webkit-border-radius    : 0 3px 3px 0;
+    border-radius           : 0 3px 3px 0;
+    pointer-events          : none;
+}

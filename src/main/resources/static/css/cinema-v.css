@@ -1,0 +1,69 @@
+html {
+    min-height:100%;
+    position:relative;
+}
+body {
+    padding-top: 53px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    margin-bottom: 160px;
+
+    /*      http://www.cssportal.com/css-gradient-generator/     */
+    /* IE10+ */
+    background-image: -ms-linear-gradient(left, #E3DDE3 0%, #FFFFFF 10%, #FFFFFF 90%, #E3DDE3 100%);
+    /* Mozilla Firefox */
+    background-image: -moz-linear-gradient(left, #E3DDE3 0%, #FFFFFF 10%, #FFFFFF 90%, #E3DDE3 100%);
+    /* Opera */
+    background-image: -o-linear-gradient(left, #E3DDE3 0%, #FFFFFF 10%, #FFFFFF 90%, #E3DDE3 100%);
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #E3DDE3), color-stop(10, #FFFFFF), color-stop(90, #FFFFFF), color-stop(100, #E3DDE3));
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-linear-gradient(left, #E3DDE3 0%, #FFFFFF 10%, #FFFFFF 90%, #E3DDE3 100%);
+    /* W3C Markup */
+    background-image: linear-gradient(to right, #E3DDE3 0%, #FFFFFF 10%, #FFFFFF 90%, #E3DDE3 100%);
+}
+#content{
+    margin-bottom: 160px;
+}
+.carousel-inner img {
+    -webkit-filter: grayscale(80%);
+    filter: grayscale(80%); /* make all photos black and white */
+    width: 82%; /* Set width to 100% */
+    margin: auto;
+}
+.carousel-caption h3 {
+    color: #fff !important;
+}
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+}
+
+#movie-details, #movie-details>tr, #movie-details>th, #movie-details>td {
+    border:none !important;
+}
+
+.btn span.glyphicon {
+    opacity: 0;
+}
+.btn.active.btn-success span.glyphicon {
+    opacity: 1;
+}
+.table-first-col-width {
+    width: 4em;
+}
+
+
+
+#footer{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+    background: #45484d; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #45484d 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    color: azure;
+    position:absolute;
+    width:100%;
+    height: 165px;
+    bottom:-5px;
+}
