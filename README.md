@@ -2,11 +2,11 @@
 
 Features of cinema's webapp:
 * viewing information about movies currently shown in the cinema 
-* * start page in case of localhost deployment: http://localhost:8085/
+   - start page in case of localhost deployment: http://localhost:8085/
 * search of movie screenings, showing and booking of tickets
 * authentication for cinema's staff: 
-* * administrators (login page in case of localhost deployment: http://localhost:8085/admin/login ) 
-* * ticket clerks (login page in case of localhost deployment: http://localhost:8085/clerk/login ) 
+   - administrators (login page in case of localhost deployment: http://localhost:8085/admin/login ) 
+   - ticket clerks (login page in case of localhost deployment: http://localhost:8085/clerk/login ) 
 * administrators can add, edit, delete movies; can schedule movies for screenings
 * ticket clerks can search movie screenings, ticket bookings; can sell tickets
 
@@ -29,6 +29,7 @@ Backend:
 * Maven
 * MySql (v.5)
 * IntelliJ IDEA
+* Google e-mail account for sending messages
 
 Frontend:
 * Bootstrap
@@ -48,7 +49,7 @@ Administrator's pages examples:
 
 Ticket Clerk's pages examples:
 
-![clerk_pages_examples](https://user-images.githubusercontent.com/27282099/31723533-c2201764-b427-11e7-8c1d-40a0fb464963.jpg)
+![clerk_pages_examples](https://user-images.githubusercontent.com/27282099/31724087-6eddc4a0-b429-11e7-8bc0-45bdcbcc923d.jpg)
 
 ## Deployment Notes
 
