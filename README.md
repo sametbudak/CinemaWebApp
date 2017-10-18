@@ -8,9 +8,12 @@ Features of cinema's webapp:
 * ticket clerks can search movie screenings, ticket bookings; can sell tickets
 
 ## Demo data
-Stored under *theater* folder
-Administrator login: **admin3**, password: **123**
-Ticket clerk login: **clerk3**, password: **123**
+
+Stored under *theater* folder.
+
+Administrator login: **admin3**, password: **123**.
+
+Ticket clerk login: **clerk3**, password: **123**.
 
 ## Snapshots
 
