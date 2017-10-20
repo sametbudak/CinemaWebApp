@@ -1,0 +1,15 @@
+{
+  "title" : "Marie Curie: The Courage of Knowledge",
+  "minutes" : 100,
+  "startDate" : "2017-08-01",
+  "endDate" : "2017-10-01",
+  "releaseYear" : "2016",
+  "directedBy" : "Marie Noelle",
+  "screenplay" : "Marie Noelle, Andrea Stoll",
+  "cast" : "Karolina Gruszka, Arieh Worthalter, Charles Berling",
+  "country" : "Germany",
+  "description" : "Follows the famous physicist and chemist Marie Curie and her struggle for recognition in the male-dominated science community in early 20th century France.",
+  "genres" : ["Biography", "Drama", "Romance"],
+  "poster" : "maria-curie.jpg",
+  "trailer" : "Marie Curie- The Courage of Knowledge Trailer.mp4"
+}

@@ -1,0 +1,15 @@
+{
+  "title" : "Despicable Me 3",
+  "minutes" : 90,
+  "startDate" : "2017-09-01",
+  "endDate" : "2017-12-31",
+  "releaseYear" : "2017",
+  "directedBy" : "Kyle Balda, Pierre Coffin",
+  "screenplay" : "Cinco Paul, Ken Daurio",
+  "cast" : "Steve Carell, Kristen Wiig, Trey Parker",
+  "country" : "USA",
+  "description" : "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+  "genres" : ["Animation", "Action", "Adventure"],
+  "poster" : "despicable-me-3.jpg",
+  "trailer" : "Despicable Me 3 - Official Trailer - In Theaters Summer 2017 (HD).mp4"
+}

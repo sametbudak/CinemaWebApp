@@ -1,0 +1,15 @@
+{
+  "title" : "Home Again",
+  "minutes" : 92,
+  "startDate" : "2017-08-01",
+  "endDate" : "2017-12-01",
+  "releaseYear" : "2017",
+  "directedBy" : "Hallie Meyers-Shyer",
+  "screenplay" : "Hallie Meyers-Shyer",
+  "cast" : "Reese Witherspoon, Lake Bell, Nat Wolff",
+  "country" : "USA",
+  "description" : "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.",
+  "genres" : ["Comedy", "Drama", "Romance"],
+  "poster" : "home-again.jpg",
+  "trailer" : "home-again-trailer-2_h480p.mp4"
+}

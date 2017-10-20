@@ -1,0 +1,15 @@
+{
+  "title" : "Cars 3",
+  "minutes" : 102,
+  "startDate" : "2017-07-01",
+  "endDate" : "2018-01-01",
+  "releaseYear" : "2017",
+  "directedBy" : "Brian Fee",
+  "screenplay" : "Brian Fee (original story by), Ben Queen (original story by), Kiel Murray(screenplay), Bob Peterson(screenplay), Mike Rich(screenplay)",
+  "cast" : "Owen Wilson, Cristela Alonzo, Chris Cooper",
+  "country" : "USA",
+  "description" : "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world. ",
+  "genres" : ["Animation", "Adventure", "Comedy"],
+  "poster" : "cars-3.jpg",
+  "trailer" : "Cars 3 - Official US Trailer.mp4"
+}

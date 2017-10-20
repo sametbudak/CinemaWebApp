@@ -1,0 +1,15 @@
+{
+  "title" : "Jumanji: Welcome to the Jungle",
+  "minutes" : 95,
+  "startDate" : "2017-08-01",
+  "endDate" : "2017-10-01",
+  "releaseYear" : "2017",
+  "directedBy" : "Jake Kasdan",
+  "screenplay" : "Chris McKenna, Jeff Pinkner",
+  "cast" : "Karen Gillan, Dwayne Johnson, Madison Iseman",
+  "country" : "USA",
+  "description" : "In a brand new Jumanji adventure, four high school kids discover an old video game console and are drawn into the game's jungle setting, literally becoming the adult avatars they chose.",
+  "genres" : ["Adventure", "Family", "Fantasy"],
+  "poster" : "jumanji.jpg",
+  "trailer" : "JUMANJI- WELCOME TO THE JUNGLE (OFFICIAL TRAILER).mp4"
+}

@@ -1,0 +1,15 @@
+{
+  "title" : "American Assassin",
+  "minutes" : 95,
+  "startDate" : "2017-08-01",
+  "endDate" : "2017-12-01",
+  "releaseYear" : "2017",
+  "directedBy" : "Michael Cuesta",
+  "screenplay" : "Vince Flynn (based on the novel by), Stephen Schiff, Michael Finch, Edward Zwick, Marshall Herskovitz", 
+  "cast" : "Michael Keaton, Dylan O'Brien, Taylor Kitsch",
+  "country" : "USA",
+  "description" : "A story centered on counterterrorism agent Mitch Rapp.",
+  "genres" : ["Action", "Thriller"],
+  "poster" : "american-assassin.jpg",
+  "trailer" : "american-assassin-trailer-2_h480p.mp4"
+}
